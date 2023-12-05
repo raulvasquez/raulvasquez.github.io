@@ -5,6 +5,7 @@
     <link>http://raulvasquez.work/</link>
     <description>Recent content on Raul Vasquez III - Resume</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://raulvasquez.work/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="http://raulvasquez.work/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

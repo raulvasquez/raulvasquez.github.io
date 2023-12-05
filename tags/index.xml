@@ -5,6 +5,7 @@
     <link>http://raulvasquez.work/tags/</link>
     <description>Recent content in Tags on Raul Vasquez III - Resume</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://raulvasquez.work/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="http://raulvasquez.work/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
